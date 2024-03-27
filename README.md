@@ -23,4 +23,4 @@ The `moveDisk()` function moves a disk from one peg to another. The `printStacks
 
 To test this program, simply run it and enter the number of disks to be moved. The program will then solve the problem and print the current state of the stacks at each step.
 
-Note: This program only supports moving a maximum of 8 disks.
+Note: This program only supports moving up to a maximum of 8 disks.
